@@ -54,4 +54,14 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/art-nft.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: artwork-registration
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/artwork-registration.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: fractional-ownership
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/fractional-ownership.clar
+            clarity-version: 2
       epoch: "2.5"

@@ -13,3 +13,7 @@ S
 #contracts/artwork-registration.clar,8/6/86fe7769cfbbffc7c056bdf2596ebcf19c9775f7
 R
 "tests/artwork-registration.test.ts,9/8/98ebee44db3194b53f87e17fda3791d83da99dc7
+S
+#contracts/fractional-ownership.clar,8/0/80a8b47ee5247e9a178671b48d8d6d55306da6b0
+R
+"tests/fractional-ownership.test.ts,6/6/66b5e79afe8946de14e75b0ef62dc765a4ca607e
