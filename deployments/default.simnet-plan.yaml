@@ -46,12 +46,4 @@ genesis:
     - cost-voting
     - bns
 plan:
-  batches:
-    - id: 0
-      transactions:
-        - emulated-contract-publish:
-            contract-name: energy-nft
-            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/energy-nft.clar
-            clarity-version: 2
-      epoch: "2.5"
+  batches: []
